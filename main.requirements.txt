@@ -1,0 +1,4 @@
+requests==2.20.0
+jinja2==2.8.1
+pyjwt==1.7.1
+marshmallow==2.18.0
